@@ -7,7 +7,5 @@
 - python
 - c++
 - javascript
-
-### Student
 - Am currently studying at the Fort Wayne Career Academy
 - Am learning how to program
